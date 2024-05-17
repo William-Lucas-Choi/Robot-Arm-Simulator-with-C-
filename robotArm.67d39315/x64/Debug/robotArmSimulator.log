@@ -1,0 +1,12 @@
+﻿  robotArmSimulator.cpp
+C:\PG\C++\RAS\robotArmSimulator\robotArmSimulator.cpp(73,22): warning C4311: 'reinterpret_cast': ポインターを 'void *' から 'int' へ切り詰めます。
+C:\PG\C++\RAS\robotArmSimulator\robotArmSimulator.cpp(73,22): warning C4302: 'reinterpret_cast': 'void *' から 'int' へ切り詰めます。
+C:\PG\C++\RAS\robotArmSimulator\robotArmSimulator.cpp(76,49): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\PG\C++\RAS\robotArmSimulator\robotArmSimulator.cpp(136,34): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\PG\C++\RAS\robotArmSimulator\robotArmSimulator.cpp(142,23): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\PG\C++\RAS\robotArmSimulator\robotArmSimulator.cpp(143,27): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\PG\C++\RAS\robotArmSimulator\robotArmSimulator.cpp(238,33): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\PG\C++\RAS\robotArmSimulator\robotArmSimulator.cpp(282,52): warning C4312: 'reinterpret_cast': 'int' からより大きいサイズの 'void *' へ変換します。
+  robotArmSimulator.vcxproj -> C:\PG\C++\RAS\robotArmSimulator\x64\Debug\robotArmSimulator.exe
+  'pwsh.exe' は、内部コマンドまたは外部コマンド、
+  操作可能なプログラムまたはバッチ ファイルとして認識されていません。
